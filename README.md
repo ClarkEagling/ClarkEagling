@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 Electrolytic cap filter: https://www.digikey.com/short/rf05dq2w
 Film cap filter: https://www.digikey.com/short/m9d0zz0d
 
-https://www.digikey.com/short/89qbcd50
+Resistor filter: https://www.digikey.com/short/4f8v7vv2
