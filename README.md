@@ -8,6 +8,6 @@ ClarkEagling/ClarkEagling is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-Electrolytic cap filter: https://www.digikey.com/short/rf05dq2w
+Electrolytic cap filter: https://www.digikey.com/short/v78j0302
 Film cap filter: https://www.digikey.com/short/n32nrfcb
 Resistor filter: https://www.digikey.com/short/4f8v7vv2
